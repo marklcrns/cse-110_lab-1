@@ -1,6 +1,15 @@
 # Mark's User Page
 
-[My Github Stats](#github-stats)
+Table of Contents
+
+<!-- TOC GFM -->
+
+* [Hi There! <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">](#hi-there-img-srchttpsuser-imagesgithubusercontentcom130315488677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0gif-width28px-althi)
+* [My Goals](#my-goals)
+* [Connect With Me](#connect-with-me)
+* [Stuff About me](#stuff-about-me)
+
+<!-- /TOC -->
 
 ## Hi There! <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 
@@ -41,13 +50,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-marklucernas-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marklucernas)
 [![Mail Badge](https://img.shields.io/badge/-lucernas.mj-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:lucernas.mj@gmail.com)
 
-<details>
-
-<summary>
-  More stuff about me...
-</summary>
-
-<br>
+## Stuff About me
 
 I am an avid [Neovim](https://github.com/marklcrns/nvim-config) user who swing
 trade stocks on the side. I also love playing guitar, reading psychology
@@ -56,7 +59,13 @@ books, and hiking.
 Check out my [Zettelkasten](https://marklucernas.dev/)--some form of personal
 blog inspired by Niklas Luhmman.
 
-### Github Stats
+<details>
+
+<summary>
+  More stuff about my github...
+</summary>
+
+<br>
 
 <!-- Stats: https://github.com/anuraghazra/github-readme-stats -->
 <a href="https://github.com/marklcrns?tab=repositories">
